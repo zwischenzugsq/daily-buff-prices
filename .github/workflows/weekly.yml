@@ -1,0 +1,43 @@
+name: Weekly price refresh
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 5 * * 1'
+      timezone: Asia/Nicosia
+permissions:
+  contents: read
+concurrency:
+  group: price-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    if: github.repository == 'zwischenzugsq/daily-buff-prices' && github.ref == 'refs/heads/main' && github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout price-only repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Test import safeguards
+        run: python3 -m unittest -v test_refresh.py
+      - name: Refresh reviewed sources
+        id: refresh
+        continue-on-error: true
+        run: python3 refresh.py
+      - name: Validate and publish data only
+        run: |
+          python3 -c "import json,refresh; refresh.validate(json.load(open('prices.json')), json.load(open('seed.json')))"
+          git config user.name 'daily-buff-price-bot'
+          git config user.email 'daily-buff-price-bot@users.noreply.github.com'
+          git add -- prices.json status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh reviewed public prices'
+            git push origin HEAD:main
+          fi
+      - name: Report incomplete source run
+        if: steps.refresh.outcome == 'failure'
+        run: |
+          echo 'A source failed. Valid sources were published; failed sources retain their original observation dates. Inspect status.json.'
+          exit 1
+
