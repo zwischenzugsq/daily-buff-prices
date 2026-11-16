@@ -1,28 +1,299 @@
 {
-  "startedAt": "2026-11-10T17:32:57.635260+00:00",
+  "startedAt": "2026-11-16T11:21:51.473723+00:00",
   "sources": {
     "ekalathi": {
-      "status": "ok",
-      "updatedProducts": 321,
-      "heldProducts": 0,
+      "status": "partial",
+      "updatedProducts": 311,
+      "heldProducts": 10,
       "error": null
     },
     "alphamega": {
-      "status": "ok",
-      "updatedProducts": 397,
-      "heldProducts": 0,
+      "status": "partial",
+      "updatedProducts": 396,
+      "heldProducts": 1,
       "error": null
     },
     "metro": {
-      "status": "ok",
-      "updatedProducts": 32,
-      "heldProducts": 0,
+      "status": "partial",
+      "updatedProducts": 1,
+      "heldProducts": 31,
       "error": null
     }
   },
   "newBranches": [],
-  "held": [],
-  "finishedAt": "2026-11-10T17:51:26.932232+00:00",
-  "requests": 334,
-  "sha256": "f0ec20217dd7dcb6385b46151ed76796466783597585d836cd3a672ba3c29b97"
+  "held": [
+    {
+      "source": "ekalathi",
+      "productId": "534",
+      "shopId": "ekalathi:617",
+      "reason": "Large price change needs review"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "534",
+      "shopId": "ekalathi:613",
+      "reason": "Large price change needs review"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "534",
+      "shopId": "ekalathi:614",
+      "reason": "Large price change needs review"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "534",
+      "shopId": "ekalathi:619",
+      "reason": "Large price change needs review"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "534",
+      "shopId": "ekalathi:618",
+      "reason": "Large price change needs review"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "534",
+      "shopId": "ekalathi:612",
+      "reason": "Large price change needs review"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "534",
+      "shopId": "ekalathi:615",
+      "reason": "Large price change needs review"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "534",
+      "shopId": "ekalathi:616",
+      "reason": "Large price change needs review"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "534",
+      "shopId": "ekalathi:611",
+      "reason": "Large price change needs review"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "534",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "522",
+      "shopId": "ekalathi:648",
+      "reason": "Large price change needs review"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "522",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3898",
+      "reason": "Missing or changed product name/pack"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1669",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "206",
+      "reason": "Missing or changed product name/pack"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "207",
+      "reason": "Missing or changed product name/pack"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "657",
+      "reason": "Missing or changed product name/pack"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "208",
+      "reason": "Missing or changed product name/pack"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "824",
+      "reason": "Missing or changed product name/pack"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "234",
+      "reason": "Missing or changed product name/pack"
+    },
+    {
+      "source": "alphamega",
+      "productId": "886942",
+      "reason": "Not returned"
+    },
+    {
+      "source": "metro",
+      "productId": "345982",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "214452",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "72844",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "326218",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "446696",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "72614",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "441862",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "411484",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "429874",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "431552",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "54026",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "376218",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "376217",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "392038",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "353827",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "449474",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "391669",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "399012",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "61946",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "273941",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "238466",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "238465",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "58001",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "65970",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "189858",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "258540",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "66011",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "271900",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "53857",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "74105",
+      "reason": "Offer absent or identity/unit changed"
+    },
+    {
+      "source": "metro",
+      "productId": "264376",
+      "reason": "Offer absent or identity/unit changed"
+    }
+  ],
+  "finishedAt": "2026-11-16T11:40:39.869371+00:00",
+  "requests": 327,
+  "sha256": "8176991eed0d4ca15b26574a993a82e346cb62e4bfa3a552fc0cc2fff05df1bd"
 }
