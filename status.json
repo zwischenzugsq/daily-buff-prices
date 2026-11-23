@@ -1,10 +1,10 @@
 {
-  "startedAt": "2026-11-16T11:21:51.473723+00:00",
+  "startedAt": "2026-11-23T12:46:23.379893+00:00",
   "sources": {
     "ekalathi": {
       "status": "partial",
-      "updatedProducts": 311,
-      "heldProducts": 10,
+      "updatedProducts": 26,
+      "heldProducts": 295,
       "error": null
     },
     "alphamega": {
@@ -24,21 +24,135 @@
   "held": [
     {
       "source": "ekalathi",
-      "productId": "534",
-      "shopId": "ekalathi:617",
-      "reason": "Large price change needs review"
+      "productId": "2074",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
     },
     {
       "source": "ekalathi",
-      "productId": "534",
-      "shopId": "ekalathi:613",
-      "reason": "Large price change needs review"
+      "productId": "2074",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
     },
     {
       "source": "ekalathi",
-      "productId": "534",
-      "shopId": "ekalathi:614",
-      "reason": "Large price change needs review"
+      "productId": "1906",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1906",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "26",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "26",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2031",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2031",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1886",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1886",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1037",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1037",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1838",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1838",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "349",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "349",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1064",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1064",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1069",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1069",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "998",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "998",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1072",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1072",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
     },
     {
       "source": "ekalathi",
@@ -55,13 +169,25 @@
     {
       "source": "ekalathi",
       "productId": "534",
+      "shopId": "ekalathi:615",
+      "reason": "Large price change needs review"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "534",
       "shopId": "ekalathi:612",
       "reason": "Large price change needs review"
     },
     {
       "source": "ekalathi",
       "productId": "534",
-      "shopId": "ekalathi:615",
+      "shopId": "ekalathi:617",
+      "reason": "Large price change needs review"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "534",
+      "shopId": "ekalathi:613",
       "reason": "Large price change needs review"
     },
     {
@@ -79,6 +205,128 @@
     {
       "source": "ekalathi",
       "productId": "534",
+      "shopId": "ekalathi:614",
+      "reason": "Large price change needs review"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "534",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "534",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1165",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1165",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1050",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1050",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "558",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "558",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "994",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "994",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "481",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "481",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2033",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2033",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1160",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1160",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1057",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1057",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2112",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2112",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2119",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2119",
       "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
     },
     {
@@ -90,6 +338,452 @@
     {
       "source": "ekalathi",
       "productId": "522",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "522",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1054",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1054",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1159",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1159",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1077",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1077",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "8",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "8",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2036",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2036",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2038",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2038",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1164",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1164",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "46",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "46",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1163",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1163",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1166",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1166",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2132",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2132",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2138",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2138",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1162",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1162",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "34",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "34",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "30",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "30",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "32",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "32",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "458",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "458",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "671",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "671",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2154",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2154",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2160",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2160",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1397",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1397",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2148",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2148",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "44",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "44",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2030",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2030",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "27",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "27",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1986",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1986",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "707",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "707",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2137",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2137",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2283",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2283",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2043",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2043",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "107",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "107",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "929",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "929",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "112",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "112",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3905",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3905",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "330",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "330",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "227",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "227",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "302",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "302",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "136",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "136",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "137",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "137",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "266",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "266",
       "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
     },
     {
@@ -99,7 +793,1514 @@
     },
     {
       "source": "ekalathi",
+      "productId": "812",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "812",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "800",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "800",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2077",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2077",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1124",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1124",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1855",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1855",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1120",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1120",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "254",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "254",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2082",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2082",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "280",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "280",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1615",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1615",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1496",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1496",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "230",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "230",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "303",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "303",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1122",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1122",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2067",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2067",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "133",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "133",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1991",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1991",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "936",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "936",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1070",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1070",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1797",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1797",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2226",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2226",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "246",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "246",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1121",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1121",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "961",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "961",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "643",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "643",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2081",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2081",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "391",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "391",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "378",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "378",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "663",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "663",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2110",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2110",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2062",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2062",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1125",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1125",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "566",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "566",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "497",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "497",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1058",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1058",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2164",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2164",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3896",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3896",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2113",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2113",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2120",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2120",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "942",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "942",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "247",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "247",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1184",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1184",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2199",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2199",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2209",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2209",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "689",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "689",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "533",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "533",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "192",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "192",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2075",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2075",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3897",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3897",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1621",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1621",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "164",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "164",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1583",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1583",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "803",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "803",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1823",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1823",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1151",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1151",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "629",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "629",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "816",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "816",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1217",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1217",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "642",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "642",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1858",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1858",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1874",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1874",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1633",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1633",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3909",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3909",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "9",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "9",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "12",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "12",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "690",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "690",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2065",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2065",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1228",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1228",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3713",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3713",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "656",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "656",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1498",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1498",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "651",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "651",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "212",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "212",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "421",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "421",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "886",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "886",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2060",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2060",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "35",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "35",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "47",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "47",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "51",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "51",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "983",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "983",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "982",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "982",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "151",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "151",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "268",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "268",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1546",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1546",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "21",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "21",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "267",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "267",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "180",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "180",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "976",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "976",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1549",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1549",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1565",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1565",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "7",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "7",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3720",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3720",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1885",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1885",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1119",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1119",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1540",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1540",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1964",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1964",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "963",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "963",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "644",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "644",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2249",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2249",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2251",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2251",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "124",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "124",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1616",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1616",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "475",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "475",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1231",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1231",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "292",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "292",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "177",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "177",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1219",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1219",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1864",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "171",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "171",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1618",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1618",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3726",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3726",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "974",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "974",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "823",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "823",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "425",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "425",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1513",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1513",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1492",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1492",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
       "productId": "1669",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1669",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "640",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "640",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1657",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1657",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1592",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1592",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1648",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1648",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1650",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1650",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1840",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1840",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1844",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1844",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "542",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "542",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2284",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2284",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1532",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1532",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1963",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1963",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2143",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2143",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "970",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "970",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2278",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2278",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "473",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "473",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "972",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "972",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1495",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1495",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "882",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "882",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3717",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3717",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "126",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "126",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1136",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1136",
       "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
     },
     {
@@ -109,8 +2310,261 @@
     },
     {
       "source": "ekalathi",
+      "productId": "975",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "975",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1535",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1535",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "968",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "968",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1779",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1779",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
       "productId": "207",
       "reason": "Missing or changed product name/pack"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1662",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1662",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1664",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1664",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "385",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "385",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "375",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "375",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "318",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "318",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1770",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1770",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2236",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2236",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3727",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3727",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1132",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1132",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1522",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1522",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1524",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1524",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2214",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2214",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "299",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "299",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "288",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "288",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "301",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "301",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "893",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "893",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1538",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1538",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "718",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "718",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1534",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1534",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
     },
     {
       "source": "ekalathi",
@@ -119,8 +2573,464 @@
     },
     {
       "source": "ekalathi",
+      "productId": "2242",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2242",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1215",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1215",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2312",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2312",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "490",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "490",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2131",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2131",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2133",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2133",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2140",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2140",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1652",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1652",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1505",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1505",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2233",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2233",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "806",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "806",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3716",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3716",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1897",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2187",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2187",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2289",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2289",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2184",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2184",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "661",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "661",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3719",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3719",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2321",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2321",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3728",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3728",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2136",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2136",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1149",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1149",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2194",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2194",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2200",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2200",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1944",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1944",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
       "productId": "208",
       "reason": "Missing or changed product name/pack"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "951",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "951",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3902",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3902",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2204",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2204",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1956",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1956",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1958",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1958",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2315",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2315",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2015",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2015",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2032",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2032",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1377",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1377",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1386",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1386",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "233",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "233",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1376",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1376",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "179",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "179",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "196",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "196",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1600",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1600",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "931",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "931",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2325",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2325",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
     },
     {
       "source": "ekalathi",
@@ -129,8 +3039,227 @@
     },
     {
       "source": "ekalathi",
+      "productId": "940",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "940",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
       "productId": "234",
       "reason": "Missing or changed product name/pack"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1894",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1374",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1374",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1423",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1423",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "938",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "938",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1933",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1933",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1378",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1378",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2286",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2286",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3794",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3794",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3799",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3799",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2280",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "2280",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3810",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3810",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1382",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1382",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1383",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1383",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "142",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "142",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3805",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3805",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3806",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3806",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1872",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "1872",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3800",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3782",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3782",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3776",
+      "shopId": "ekalathi:774",
+      "reason": "Branch identity/address changed"
+    },
+    {
+      "source": "ekalathi",
+      "productId": "3776",
+      "reason": "Product held: changed branch, price anomaly or >20% coverage loss"
     },
     {
       "source": "alphamega",
@@ -293,7 +3422,7 @@
       "reason": "Offer absent or identity/unit changed"
     }
   ],
-  "finishedAt": "2026-11-16T11:40:39.869371+00:00",
+  "finishedAt": "2026-11-23T13:03:07.639660+00:00",
   "requests": 327,
-  "sha256": "8176991eed0d4ca15b26574a993a82e346cb62e4bfa3a552fc0cc2fff05df1bd"
+  "sha256": "67aa9b784cb810c9efc9d9099c8ef2c0df55d50517280b3321b576eab1800242"
 }
